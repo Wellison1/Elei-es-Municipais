@@ -1,4 +1,4 @@
-# Eleições Sete Lagoas 2024
+# Eleições Sete Lagoas 2024 - Imersão Dev com Google Gemini
 
 Bem-vindo ao projeto **"Eleições Sete Lagoas 2024"**! 🗳️🎉 Esta é uma aplicação web simples que permite pesquisar informações sobre candidatos e partidos das eleições municipais de Sete Lagoas.
 
